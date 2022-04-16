@@ -1,0 +1,12 @@
+Laravel応用テスト問題
+問題①　回答
+
+①クエリビルダ
+②Eloquent
+③M（モデル）
+④Create
+⑤READ
+⑥UPDATE
+⑦.env
+⑧マイグレーション
+⑨ファクトリ
